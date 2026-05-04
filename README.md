@@ -115,7 +115,7 @@ Or run directly on **Kaggle** with GPU enabled (recommended).
 
 ---
 
-## Author
+# Author
 
 **Manel Teffahi** — [GitHub](https://github.com/Manel-Tfh)
 **Sara Meftah** — [GitHub](https://github.com/saraMeftah)
@@ -123,13 +123,13 @@ Or run directly on **Kaggle** with GPU enabled (recommended).
 
 ---
 
-## Supervisor
+# Supervisor
 
 **Abderrahmane Khiat**
 
 ---
 
-## License
+# License
 
 Copyright © 2026 **Manel Teffahi & Sara Meftah & Raida Gaçemi ** — All rights reserved.
 
